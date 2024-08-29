@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Cobain Deploy Serverless</h1>
+      <h1>Deploy aja kok repot?</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           Terima jadi ketok berapa kali = {count}
